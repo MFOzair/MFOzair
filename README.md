@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MFOzair
+- 👀 I’m interested in web applications and product managment 
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on web application project 
+- 📫 You can reach me using ozairfurqan@gmail.com
